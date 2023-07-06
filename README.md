@@ -1,2 +1,2 @@
 # EJS-Web-App
-Blog web application made using Embedded Javascript Templating and node.js
+Blog, Web Application, made using Embedded Javascript Templating and Express.js
